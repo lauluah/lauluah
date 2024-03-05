@@ -4,7 +4,7 @@
 
 <p>Main Techs: JavaScript, HTML5 and CSS3 <br>
  Secondary Techs: NodeJS <br>
-I'm studying: JavaScript and PHP 
+I'm studying: JavaScript  
 </p>
 
 <div style="display: inline-block"><br>
