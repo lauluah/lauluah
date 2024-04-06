@@ -2,8 +2,7 @@
 <h1><strong>Oii, meu nome é Laura Marques</strong></h1>
 
 
-<p>Main Techs: JavaScript, HTML5 and CSS3 <br>
- Secondary Techs: NodeJS <br>
+<p>Main Techs: JavaScript, NodeJS, HTML5 and CSS3 <br>
 I'm studying: JavaScript  
 </p>
 
