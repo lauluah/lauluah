@@ -12,7 +12,6 @@ I'm studying: Java
 <img align="center" alt="laura-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" height="300" width="300">
 <img align="center" alt="laura-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="300" width="300">
 <img align="center" alt="laura-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"  height="300" width="300">
-<img align="center" alt="laura-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"  height="300" width="300">
 <img align="center" alt="laura-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" height="300" width="300">
 <img align="center" alt="laura-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="300" width="300">
           
