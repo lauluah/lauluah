@@ -14,11 +14,13 @@ I'm studying: Java
 <img align="center" alt="laura-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"  height="300" width="300">
 <img align="center" alt="laura-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" height="300" width="300">
 <img align="center" alt="laura-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="300" width="300">
-          
+<br><br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauluah&layout=compact)
           
 </div>
 
-<br> <a class="redes"><br>
+<br> <a class="redes">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/lauluahh1212)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laauramrqs181@gmail.com)
 </a>          
