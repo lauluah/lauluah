@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=499ABD&amp;height=120&amp;section=header" style="max-width: 100%;"> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=499ABD&amp;height=90&amp;section=header" style="max-width: 100%;"> 
 <h1><strong>Oii, meu nome é Laura Marques</strong></h1>
 
 
@@ -31,3 +31,5 @@ I'm studying: java
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.comlauluah/lauluah/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
+
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=499ABD&amp&height=70&section=footer"/>
