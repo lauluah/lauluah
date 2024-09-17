@@ -2,18 +2,16 @@
 <h1><strong>Oii, meu nome é Laura Marques</strong></h1>
 
 
-<p>Main Techs: JavaScript, NodeJS, HTML5 and CSS3 <br>
+<p>Main Techs: Java, JavaScript, NodeJS, HTML5 and CSS3 <br>
 I'm studying: java 
 </p>
 
 <div style="display: inline-block"><br>
+<img align="center" alt="java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 <img align="center" alt="laura-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
 <img align="center" alt="laura-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" height="300" width="300">
 <img align="center" alt="laura-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" height="300" width="300">
 <img align="center" alt="laura-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="300" width="300">
-<img align="center" alt="laura-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"  height="300" width="300">
-<img align="center" alt="laura-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" height="300" width="300">
-<img align="center" alt="laura-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="300" width="300">
 <br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauluah&layout=compact)
