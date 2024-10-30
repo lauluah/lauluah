@@ -3,7 +3,7 @@
 
 
 <p>Main Techs: Java, JavaScript, NodeJS, HTML5 and CSS3 <br>
-I'm studying: java 
+I'm studying: java and Spring
 </p>
 
 <div style="display: inline-block"><br>
