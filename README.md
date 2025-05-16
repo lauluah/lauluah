@@ -20,7 +20,6 @@ I'm studying: java and Spring
 </div>
 
 <br> <a class="redes">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/lauluahh1212)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laauramrqs181@gmail.com)
 </a>          
 
